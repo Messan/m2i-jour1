@@ -1,5 +1,8 @@
+pouet, pouet!
 Hello world
 Ligne 2
 Ligne 3
-Ligne 4
+=======
+ligne 4
+Conflict resolved!
 
